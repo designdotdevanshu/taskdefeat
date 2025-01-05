@@ -52,17 +52,17 @@ Follow the instructions below to get the project up and running on your local en
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/designdotdevanshu/checkmate.git
+git clone https://github.com/designdotdevanshu/taskdefeat.git
 
 # or with SSH
 
-git clone git@github.com:designdotdevanshu/checkmate.git
+git clone git@github.com:designdotdevanshu/taskdefeat.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd checkmate
+cd taskdefeat
 ```
 
 ---

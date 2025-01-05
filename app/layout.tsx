@@ -17,8 +17,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "CheckMate",
-  description: "CheckMate is a todo app built with Next.js and Redux Toolkit.",
+  title: "TaskDefeat",
+  description: "TaskDefeat is a todo app built with Next.js and Redux Toolkit.",
 };
 
 export default function RootLayout({
